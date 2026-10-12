@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Varian wajib agar Tailwind v4 mengenali elemen dengan class .dark */
+@variant dark (&:where(.dark, .dark *));
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100 transition-colors duration-200;
+}
