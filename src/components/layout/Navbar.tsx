@@ -84,7 +84,7 @@ export const Navbar: React.FC = () => {
             >
               {/* Tombol Lihat/Preview PDF di Tab Baru */}
               <a
-                href="/resume.pdf"
+                href="/cv.samuel.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-3.5 py-2 text-sm font-medium transition-colors border-r border-sky-500/40"
