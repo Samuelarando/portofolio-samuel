@@ -39,7 +39,7 @@ export const projectsData: Project[] = [
     description: 'Website belajar dan kursus grafologi (Certified Handwriting Analyst) interaktif dengan landing page hero section yang elegan, pendaftaran kelas, dan modul pembelajaran analitis.',
     image: '/pict4.png',
     tags: ['React', 'TypeScript', 'Node.js', 'Express', 'Tailwind CSS'],
-    demoUrl: 'https://grafologi-re-design-laqy8lua0-samuel-arando-purba-s-projects.vercel.app/',
+    demoUrl: 'https://grafologi-re-design.vercel.app/',
     githubUrl: 'https://github.com/Samuelarando',
     featured: true,
     metrics: 'Professional graphology certification UI',
